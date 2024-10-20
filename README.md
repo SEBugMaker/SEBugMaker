@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there!🥳
+I'm a student at Nanjing University
 
 <!--
 **SEBugMaker/SEBugMaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
